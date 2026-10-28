@@ -1,0 +1,32 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: aliceblue;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.expense_form {
+    padding: 20px;
+    background-color: #729ac9;
+    border-radius: 12px;
+    margin-top: 20px;
+}
+
+#expenses_list button {
+    margin-left: 25px;
+}
